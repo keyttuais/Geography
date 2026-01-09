@@ -54,5 +54,14 @@
  
 <img width="602" height="298" alt="image" src="https://github.com/user-attachments/assets/0abe31d0-e421-4bbc-b0d3-16ff57d12645" />
 
-
 #### Extrusive Features
+- **Flood Basalts** These are formed by fissure eruption. Due to less viscous basaltic lava it erupts with no explosive activity. e.g., Deccan trap.
+- **Shield Volcanoes** These are huge domes of basalt. It is formed as a result of continued outpouring of great quantities of highly fluied basaltic lava. e.g., Mt Mauna Kea and Mauna Loa in Hawaii.
+- **Ash or Cinder Cone** These are usually of low height and are formed of volcanic dust, ashes and pyroclastic matter. They are formed when the eruption is of central type with a predominance of pyroclastic materials. e.g., Paricutin, Mexico.
+- **Composite or Strata Cone** It is the highest of all volcanic cones. These are formed due to accumulation of different layers of various volcanic materials and hence, called as *strato-cones*. These are built up by alternate layers of lava and fragmental flows. e.g., Pinatubo of Philippines, Fuji in Japan.
+- **Parasitic Cone** Several branches of pipes come out from the main centre pipe of the volcano. Lava and other volcanic material will come out from these minor pipes and get deposited around these newly formed vents. The smaller cones formed on major cones are termed as a parasitic cone.
+- **Crater** The depression formed at the mouth of a volcanic vent is known as crater or Volcanic mouth. It is usually funnel shaped.
+- **Caldera** It is enlarged form of a crater. These are either formed by the subsidence of a crater or by violent and explosive eruption of volcanoes.
+- **Hot Springs** These are formed when groundwater comes in contact with the magma. When ground water gets heated beyong 36 degrees, it comes to the surface as a hot spring. e.g., Ladakh, Manali, Volcanic regions of Iceland, Yellow stone National park.
+- **Geyser** It is a special type of hot spring. It ejects steam and superheated water at regular intervals. e.g., Old faithful geyser in the USA, which erupts faithfully after every 66 minutes.
+- **Fumaroles** They are characterised by full scale continous jet-like emission of hot water from a vent. These are the vent through which gases and water vapour are emitted.
