@@ -1,5 +1,5 @@
 # Summary
-- [Sources](./sources.md)
+- [Sources](./Sources.md)
 - [Universe to Earth](./chapter_1.md)
 - [Geomorphology](./chapter_2.md)
   - [Volcanoes](./volcanoes.md)
