@@ -44,6 +44,15 @@
 - When rocks are formed by cooling at the surface it is known as volcanic rocks. When by cooling in the crust it is known as plutonic rocks.
 
 #### Intrusive Features
+- When the volcanic features are formed beneath the surface, they are called as intrusive features. Some of the important intrusive featuers are as follows:
+  - **Batholiths** These are the cooled portion of magma chambers. A large body of magmatic material that cools in the deeper depth of the crust develops in the form of large domes. These are granitic bodies.
+  - **Lacoliths** These are large dome-shaped intrusive bodies with a level base and connected by a pipe-like conduit from below. It resembles the surface volcanic domes of composite volcano, only these are located at deeper depths.
+  - **Lapolith** As and when the lava moves upwards, a portion of the same may tend to move in a horizontal direction wherever it finds a weak plane. It may get rested in different forms. In case it develops into a saucer shape, concave to the sky body, it is called Lapolith.
+  - **Phacoliths** A wavy mass of intrusive rocks, at times, is found at the base of synclines or at the top of anticline in folded igneous country. Such wavy materials have a definite conduit to source beneath in the form of magma chambers. These are called phacoliths.
+  - **Sills** The near horizontal bodies of the intrusive igneous rocks are called sill or sheet, depending on the thickness of the material. The thinner ones are called sheets while the thick horizontal deposits are called Sills.
+  - **Dykes** When the lava makes its way through cracks and the fissures developed in the land, it solidifies almost perpendicular to the ground. It gets cooled in the same poisition to develop a wall like structure. Such structures are called Dykes.
+ 
+<img width="602" height="298" alt="image" src="https://github.com/user-attachments/assets/0abe31d0-e421-4bbc-b0d3-16ff57d12645" />
 
 
 #### Extrusive Features
