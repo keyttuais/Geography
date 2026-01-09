@@ -65,3 +65,7 @@
 - **Hot Springs** These are formed when groundwater comes in contact with the magma. When ground water gets heated beyong 36 degrees, it comes to the surface as a hot spring. e.g., Ladakh, Manali, Volcanic regions of Iceland, Yellow stone National park.
 - **Geyser** It is a special type of hot spring. It ejects steam and superheated water at regular intervals. e.g., Old faithful geyser in the USA, which erupts faithfully after every 66 minutes.
 - **Fumaroles** They are characterised by full scale continous jet-like emission of hot water from a vent. These are the vent through which gases and water vapour are emitted.
+
+<img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/cf6f3ffc-9ed0-4cef-8ec9-c882f2fffb89" />
+
+### 
