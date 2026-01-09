@@ -33,3 +33,17 @@
 - **Flood Basalt Provinces** These volcanoes outpour highly fluid lava that flows for long distances. There can be a series of flows with some flows attaining thickness of more than 50 m. The Deccan traps from India, are a much larger floor basalt province. It is believed that initially the traop formations covered a much larger area than the present.
 - **Mid-Ocean Ridge Volcanoes** These volcanoes occur in the oceanic areas. There is a system of mid-ocean ridges more than 70,000 km long that stretches through all the ocean basins. The central portion of this ridge experiences frequent eruptions.
 
+### Topographic Features of Volcanoes
+- Magma is of two types i.e., **basaltic** and **granati**. Basaltic magma is fluid while granitic magma is visous.
+
+>Viscosity is a measure of a fluid’s resistance to deformation or flow. Higher viscosity = thicker fluid. Water has low viscosity and Oil has high viscosity.
+
+- Once magma comes to the surface of the Earth, it is lighter than the adjoining rocks, moves upward towards the surface and gives rise to certain topographic features.
+- The cooling of Magma may take place either on reaching the surface or also while the lava is still in the crustal portion.
+- Depending on the location of the cooling of the lava, igneous rocks are classified as volcanic rocks and plutonic rocks.
+- When rocks are formed by cooling at the surface it is known as volcanic rocks. When by cooling in the crust it is known as plutonic rocks.
+
+#### Intrusive Features
+
+
+#### Extrusive Features
