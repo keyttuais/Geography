@@ -1,0 +1,46 @@
+## Sources to refer: 
+
+### World Physical Geography
+- Syllabus
+- Books (new edition)
+- NCERT (Appendix of all NCERT are very useful)
+  - The Earth : Our Habitat (6th)
+  - Our Environment (7th)
+  - Resources and Development (8th)
+  - Contemporary India - 1 (9th)
+  - Contemporary India - 2 (10th)
+  - Fundamentals of Physical Geography (11th)
+  - India Physical Environment (11th)
+  - Fundamentals of Human Geography (12th)
+  - India People and Economy (12th)
+  - Certificate Physical and Human Geography (by Goh Chang Leong)
+- India Year Book published by Govt of India
+- Atlas
+- UPSC Questions
+  - Previous Year Questions
+    - Prelims (Last 10 years)
+    - Mains (from 2013)
+### India Physical Geography
+- India Physical Environment NCERT Class 11
+- India Year Book
+  - Physical related - India Land & People
+- Indian Economic Survey
+- Current affairs
+- India Geography
+- Physical Geography
+- Physical setting of india
+  - Drainage
+  - Soil
+  - Climate
+  - Natural Vegetation (DIY)
+- Human Geography
+  - Population and Tribals
+  - Primary Sector
+    - Mining aspects (DIY)
+    - NCERT
+    - India Year Book
+    - Economic Survey
+- Current affairs
+  - Agriculture
+  - Manufacturing industries
+  - Infrastructure
