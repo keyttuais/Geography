@@ -66,6 +66,19 @@
 - **Geyser** It is a special type of hot spring. It ejects steam and superheated water at regular intervals. e.g., Old faithful geyser in the USA, which erupts faithfully after every 66 minutes.
 - **Fumaroles** They are characterised by full scale continous jet-like emission of hot water from a vent. These are the vent through which gases and water vapour are emitted.
 
-<img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/cf6f3ffc-9ed0-4cef-8ec9-c882f2fffb89" />
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/cf6f3ffc-9ed0-4cef-8ec9-c882f2fffb89" />
 
+### Distribution of Volcanic Belts
+- Distribution of volcanic belts is uneven in the world. There are following three prominent volcanic belts.
+- **Circum-Pacific Belt**
+  - Circum-Pacific region popularly termed as the *Pacific Ring of Fire*
+  - It has the greatest concentration of active volcanoes. Volcanic belt and earthquake belt closely overlap along the Pacific ring of fire.
+  - It extends across the Kamchatka Peninsula, Kuril Islands, the Islands of Japan, Philippines, New Guinea, New Zealand and the solomon islands.
+  - It also passed through antarctica and the western coast of north and south america.
+- **Mid-Continental Belt**
+  - This belt is formed as a result of convergence between the Eurasian plate and the Northward moving African plate.
+  - It includes volcanoes of the Alpine mountain chain, the Mediterrainean sea and the fault zone of Eastern Africa of Stromboli, Vesuvius, Etna, Kilimanjaro etc.
+- **Mid-Atlantic Belt**
+  - These are located on divergent plate boundaries. The mid-atlantic ridge is a volcanic mountain rage that rises from the atlantic abyssal plain, extending from the Arctic to the Antarctic.
+  - In this belt, the volcanoes are fissure eruption type. e.g., Iceland, Canary Islands, Cape Verde, Azores etc.
 
