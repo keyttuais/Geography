@@ -8,6 +8,8 @@
 - Bullet Crater of a volcano is a cylindrical opening through which magma or lava comes out to the surface of the Earth.
 - The main causes of volcanic eruption are plate-tectonics. Weak layer of crust, high temperature of core and evolution of gases near sea floor.
 
+> Rocks formed by either plutonic or volcanic activity are called Igneous Rocks.
+
 ### Parts of Volcano
 - Magma Champter : It is a large underground pool of molten rock under pressure sitting underneath the Earth's crust. Generally, magma chambers are located close to Earth's surface, usually between 1km to 10km deep.
 - Volcanic vent : It is the weak point in the Earth's crust where hot magma has been able to rise from the magma chamber and reach the surface.
@@ -45,14 +47,20 @@
 
 #### Intrusive Features
 - When the volcanic features are formed beneath the surface, they are called as intrusive features. Some of the important intrusive featuers are as follows:
+> Igneous intrusions on a larger scale are the varies types of Liths
   - **Batholiths** These are the cooled portion of magma chambers. A large body of magmatic material that cools in the deeper depth of the crust develops in the form of large domes. These are granitic bodies.
-  - **Lacoliths** These are large dome-shaped intrusive bodies with a level base and connected by a pipe-like conduit from below. It resembles the surface volcanic domes of composite volcano, only these are located at deeper depths.
-  - **Lapolith** As and when the lava moves upwards, a portion of the same may tend to move in a horizontal direction wherever it finds a weak plane. It may get rested in different forms. In case it develops into a saucer shape, concave to the sky body, it is called Lapolith.
-  - **Phacoliths** A wavy mass of intrusive rocks, at times, is found at the base of synclines or at the top of anticline in folded igneous country. Such wavy materials have a definite conduit to source beneath in the form of magma chambers. These are called phacoliths.
-  - **Sills** The near horizontal bodies of the intrusive igneous rocks are called sill or sheet, depending on the thickness of the material. The thinner ones are called sheets while the thick horizontal deposits are called Sills.
-  - **Dykes** When the lava makes its way through cracks and the fissures developed in the land, it solidifies almost perpendicular to the ground. It gets cooled in the same poisition to develop a wall like structure. Such structures are called Dykes.
+  - **Laccoliths** These are large *dome-shaped* intrusive bodies with a level base and connected by a pipe-like conduit from below. It resembles the surface volcanic domes of composite volcano, only these are located at deeper depths. e.g., laccoliths of the Henry Mountains, in Utah U.S.A.
+  - **Lapolith** As and when the lava moves upwards, a portion of the same may tend to move in a horizontal direction wherever it finds a weak plane. It may get rested in different forms. In case it develops into a saucer shape, concave to the sky body, it is called Lapolith. It is an intrusion with a *Saucer Shape*. The Bushveld lapoliths of Transvaal, South Africa are good examples.
+  - **Phacoliths** A wavy mass of intrusive rocks, at times, is found at the base of synclines or at the top of anticline in folded igneous country. Such wavy materials have a definite conduit to source beneath in the form of magma chambers. These are called phacoliths. An example of phacolith is Corndon Hill in Shropshire, England.
+  - **Sills** The near horizontal bodies of the intrusive igneous rocks are called sill or sheet, depending on the thickness of the material. The thinner ones are called sheets while the thick horizontal deposits are called Sills. When a intrusion of molten magma is made *Horizontally* along the bedding planes of sedimentary rocks, the resultant intrusion is called Sill. Denudation of the overlying sedimentary strata will expose the intrusion which will resemble a lava flor or form a bold escarpment like the Great Whin Sill of N.E. England.
+
+<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/3565cf5e-2eac-4295-9f13-deaa20422527" />
+
+  - **Dykes** When the lava makes its way through cracks and the fissures developed in the land, it solidifies almost perpendicular to the ground. It gets cooled in the same poisition to develop a wall like structure. Such structures are called Dykes. Examples of Dykes are the Cleveland Dyke of Yorkshire, England and hundreds of others in the Isles of Muli and Arran in Scotland. A large, very resistant dyke of quartzite forms a long ridge to the north of Kaula Lampur.
  
 <img width="602" height="298" alt="image" src="https://github.com/user-attachments/assets/0abe31d0-e421-4bbc-b0d3-16ff57d12645" />
+
+> Denudation is process of wearing away the Earth's surface by natural agents like: Weathering, Erosion, Transportation and deposition.
 
 #### Extrusive Features
 - **Flood Basalts** These are formed by fissure eruption. Due to less viscous basaltic lava it erupts with no explosive activity. e.g., Deccan trap.
