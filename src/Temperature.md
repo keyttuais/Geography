@@ -95,4 +95,56 @@
     - Also called as Annual temperature range
 - Equatorial regions have minimum Diurnal and Annual temperature range of 3 degree celsius temperature range. The day temperature is sampled at the hottest time which is 2:30 PM and the night time temperature is sampled at the coldest time which is 4:00 AM before morning twilight. The annual temperature range of summer is 28 deg celsius and winter is 25 deg celsius.
 - The diurnal maximum temperature range is generally found in Tropical Desert where the day (hottest) temperature is around 45 degree celsius and the night time (coldest) temperature is around 25 degree celsius giving a diurnal temperature range of 20 degree celsius.
-- The annual maximum temperature range is generally found in Eurasian continental regions especially around cyberia regions. Between summer and winter the temperature range is very high where the summer average temperature is 10 degrees celsius and the winter average temperature is -50 degrees celsius giving a range of 60 degrees celsius
+- The annual maximum temperature range is generally found in Eurasian continental regions especially around cyberia regions. Between summer and winter the temperature range is very high where the summer average temperature is 10 degrees celsius and the winter average temperature is -50 degrees celsius giving a range of 60 degrees celsius.
+
+## Temperature Inversion
+- This is a vertical temperature phenomenon.
+- Temperature inversion is a special phenomenon seen vertically in the atmosphere with respect to temperature. This is opposite to the normal lapse rate condition. In the normal lapse rate condition as one goes vertically high in the atmosphere temperature tends to decrease. Opposite to this when one goes vertically high during temperature inversion conditions in the atmosphere, the temperature tends to increase with height.
+
+### Types of temperature inversion in the atmosphere
+- Radiation inversion (normally found in the planes)
+- Subsidence inversion (normally found in the valleys or between mountains or hill)
+- Marine inversion (found in coastal areas)
+- Frontal inversion (found along fronts formed between air masses)
+> Radiation inversion develops during long, calm, cloudless nights when intense ground cooling causes lower air layers to become colder than the air above.
+
+| **Condition**            | **Explanation / Role in Inversion**                                                                                                                                   |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Long, cold nights**    | During long nights, the ground loses most of the heat absorbed during the day through terrestrial radiation, causing the surface to become very cold.                 |
+| **Rapid ground cooling** | Cold ground cools the air in direct contact with it, while the air above remains relatively warmer, resulting in cooler air below warmer air (temperature inversion). |
+| **Clear, cloudless sky** | Absence of clouds allows maximum loss of heat by radiation; clouds would otherwise reflect outgoing radiation back to the surface, preventing strong cooling.         |
+| **Calm or weak winds**   | Strong winds would mix the cold surface air with warmer upper air, destroying the inversion; calm conditions allow cold air to remain near the ground.                |
+
+> Valley or subsidence inversion occurs during cold, calm nights in hilly regions when cold, dense air flows downslope and accumulates in valleys, trapping warmer air above and often causing frost conditions.
+
+| **Aspect**                          | **Explanation**                                                                                                                                        |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nature of phenomenon**            | A temperature inversion occurring mainly during cold or winter nights in hilly and mountainous regions.                                                |
+| **Surface cooling**                 | During cold nights, especially with snow cover, hill slopes and upper surfaces lose heat rapidly and become very cold.                                 |
+| **Cooling of air over slopes**      | Air in contact with the cold hill surfaces becomes cold and dense.                                                                                     |
+| **Downslope movement (subsidence)** | Cold, dense air flows downslope under gravity and accumulates in the valley floor.                                                                     |
+| **Displacement of warm air**        | The descending cold air replaces the warmer air in the valley, forcing the lighter warm air to rise above.                                             |
+| **Formation of inversion**          | Cold air remains trapped in the valley below warmer air, producing a temperature inversion.                                                            |
+| **Agricultural impact**             | Leads to frost conditions in valleys, which can damage crops if prolonged.                                                                             |
+| **Human adaptation**                | Farmers prefer growing crops on hill slopes rather than valley bottoms to avoid frost damage.                                                          |
+| **Subsidence inversion mechanism**  | In some cases, warmer air descending from adjacent hills (after compression) overlies and suppresses the colder valley air, maintaining the inversion. |
+
+> Marine inversion occurs in coastal areas when cool marine air spreads inland beneath rising warm land air, leading to temperature inversion, especially towards the end of winter.
+
+| **Aspect**                         | **Explanation**                                                                                          |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Nature of phenomenon**           | A temperature inversion occurring in coastal regions, usually towards the end of winter.                 |
+| **Land heating**                   | Towards the end of winter, land surfaces heat up relatively faster and the air over land becomes warmer. |
+| **Rising of warm land air**        | The warmer, lighter air over land tends to rise upward.                                                  |
+| **Ocean temperature**              | The ocean remains relatively cool due to slow heating and cooling of water.                              |
+| **Cool marine air**                | Cool, dense air remains over the ocean surface.                                                          |
+| **Onshore movement of marine air** | Cool marine air spreads from the ocean towards the coastal land area.                                    |
+| **Displacement of warm air**       | The advancing cool marine air forces the warmer coastal air to rise above it.                            |
+| **Formation of inversion**         | Cooler air lies below warmer air near the coast, producing a marine inversion.                           |
+| **Climatic effect**                | Brings cool, fresh air to coastal regions even towards the end of winter.                                |
+
+### The effects of temperature inversion
+- Inversion causes the colder air to stay near the ground and hence create fog or dew (water droplets on the ground), frost (frozen dew) type of conditions.
+- It does not allow the lower air colder air to rise and hence increase pollution conditions.
+- Marine inversion can cause fog on the coast and hence affect navigation at the port.
+- Some frost is good for winter crops but too much extended period of frost adversely affects vegetation and crops.
