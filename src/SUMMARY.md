@@ -6,7 +6,7 @@
 - [Climatology & Oceans](./chapter_3.md)
   - [Atmosphere](./Atmosphere.md)
     - [Heat Budget](./heat_budget.md)
-    - [Temperature](./Temperature.md)
+    - [Heat Transfer](./Heat_transfer.md)
   - [Pressure](./Pressure.md)
   - [Humidity](./Humidity.md)
   - [Clouds](./Clouds.md)
