@@ -70,3 +70,10 @@
     - Drier surfaces
       - Severing
 > Low albedo and wet surfaces absorb more heat but release it slowly due to evaporation and high heat capacity, producing a moderating effect, whereas high albedo and dry surfaces reflect radiation and undergo rapid heating and cooling, leading to extreme temperatures.
+
+## Representing Temperature
+- An Isotherm is a line drawn on the map connecting places having the same temperature.
+- Hence for example, 25 deg celsius isotherm will pass through places having the same temperature. On the same map at a given time we can have different isotherms connecting different places having different temperatures. But no *two isotherms on the same map at the same time can cross the same place*, which means isotherms cannot intersect on the map.
+### Characteristics of Isotherms
+- The isotherms in general are parallel to latitude (not always) if other factors affecting temperature are not considered.
+- As we go from equator to pole the temperature decreases.
