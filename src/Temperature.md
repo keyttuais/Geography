@@ -30,7 +30,7 @@
   - Continentality effect means that places on the earth, that are closer to the continents and when we are on the continent, then places in the interior of the continents behave more extreme with respect to the surrounding temperature or expected temperature.
   - Simply said this means that continental places which are closer to the continent and much interior to the continent will have more hotter than normal during summers and more colder than normal during winters, especially in the continental interiors away from the cost.
   - This is known as continentality effect or the effect of the land.
-> Continentality has the severing effect, if it is hot -> it makes even hotter and if its cold, it will make it even more colder.
+> Continentality has the severing effect, if it is hot -> it makes even hotter and if its cold, it will make it even more colder. More Continentality doesn't mean equally extreme summers and winters, it indeed means More Annual temperature range, not necessarily highest summer temperature.
 - Maritime (Oceanity) effect)
   - It means the effect of the oceanic region on the temperature.
   - The maritime effect or the oceanity effect is that the places away from the continents in the open oceans (when we are talking of oceans only) or places near to the coast lines away from the continental interior (when we are talking of continents only) are having a moderated temperature due to the oceans effects which means during summer season such places will not be so hot whereas during the winter season such places will not be so cold.
@@ -77,3 +77,22 @@
 ### Characteristics of Isotherms
 - The isotherms in general are parallel to latitude (not always) if other factors affecting temperature are not considered.
 - As we go from equator to pole the temperature decreases.
+- Reasons for bending of Isotherms
+  - Due to continentality effect isotherms in the summer season are bent towards the pole.
+    - In Northern hemisphere During winter due to continentality the isotherms bend towards the Equator.
+    - Simply said during summer when we go from ocean to continent along the isotherm, the isotherms bends towards pole and during winters the isotherms bends towards the Equator.
+  - Asia has more extreme continentality than North America in the northern hemisphere. The summer extreme temperature around asia is found around western asia africa region somewhere around labia. The maximum temperature ever measured is around 55 degree celsius. The minimum temperature measured is -85 degrees celsius in cyberia.
+  - *Winter* season in the northern hemisphere is more extreme.
+  - The average temperature of the whole earth is 15 degrees celsius. Hence January isotherms bend more in the northern hemisphere than in June / July in the northern hemisphere.
+ 
+> Asia exhibits extreme continentality due to its vast landmass, causing severe winters in Siberia owing to lack of maritime influence, snow cover, and polar air stagnation. However, extreme summer temperatures are higher in subtropical desert regions like the Sahara and West Asia due to vertical insolation, subsiding air, and arid surfaces. Hence, continentality amplifies temperature range but does not alone determine summer maxima.
+
+## Temperature Range
+- Temperature range is the difference between the maximum and minimum temperature observed on the earth at a given place. Hence there can be two kind of temperature ranges.
+  - Day and night temperature range
+    - Also called as Diurnal temperature range
+  - Summer and winter temperature range
+    - Also called as Annual temperature range
+- Equatorial regions have minimum Diurnal and Annual temperature range of 3 degree celsius temperature range. The day temperature is sampled at the hottest time which is 2:30 PM and the night time temperature is sampled at the coldest time which is 4:00 AM before morning twilight. The annual temperature range of summer is 28 deg celsius and winter is 25 deg celsius.
+- The diurnal maximum temperature range is generally found in Tropical Desert where the day (hottest) temperature is around 45 degree celsius and the night time (coldest) temperature is around 25 degree celsius giving a diurnal temperature range of 20 degree celsius.
+- The annual maximum temperature range is generally found in Eurasian continental regions especially around cyberia regions. Between summer and winter the temperature range is very high where the summer average temperature is 10 degrees celsius and the winter average temperature is -50 degrees celsius giving a range of 60 degrees celsius
