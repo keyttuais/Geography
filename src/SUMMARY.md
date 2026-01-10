@@ -5,6 +5,8 @@
   - [Volcanoes](./volcanoes.md)
 - [Climatology & Oceans](./chapter_3.md)
   - [Atmosphere](./Atmosphere.md)
+    - [Heat Budget](./heat_budget.md)
+    - [Temperature](./Temperature.md)
   - [Pressure](./Pressure.md)
   - [Humidity](./Humidity.md)
   - [Clouds](./Clouds.md)
