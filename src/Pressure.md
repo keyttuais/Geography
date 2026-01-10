@@ -6,6 +6,7 @@
 - High and low pressure conditions
   - Generally high pressure and low pressures are not measured against a standard or average value. They are indeed compared against each other and derive the high / low pressure.
 ### How high and low pressure conditions are created.
+Picture
 - In the atmosphere any phenomena where heating or cooling is involved we call it Thermal phenomena. If only movement is involved without heating or cooling we call it a Mechanical phenomena.
 
 | **Pressure System** | **Vertical Air Movement** | **Horizontal Air Movement**    | **Associated Temperature** |
