@@ -83,5 +83,12 @@ Hence because of these factors, insolation on the earth's surface varies from pl
 - Hence if there are more greenhouse gasses and agents in the atmosphere (added naturally or by human beings), the atmosphere will get warmer known as *Global warming* which we are presently experiencing because of increased greenhouse gasses in the atmosphere by human activities.
 
 ## Horizontal heat distribution on the earth
-
+- How much of the heat received / distributed in which region of the earth is horizontal heat distribution of the earth.
+- 0 to 45 degrees is warmer and 45 to 90 degrees is colder. In the warmer region which is between 0 to 45 degrees, the heat received is more than the heat released. Hence there is a heat surplus in this region keeping the region warmer.
+- By same logic, in the colder region heat received will be less than the heat released and hence a net heat deficit in the colder region as shown because of which the colder region remains colder.
+- But over the long period, we find that neither the warmer region keeps getting warmer with more heat surplus nor the colder region keeps getting colder by more and more heat deficit.
+- This implies that there is a *Continous heat transfer* from the heat surplus region to the heat deficit region on the earth ensuring that the warm region does not get much warmer and colder region does not get much colder.
+- Hence horizontal heat transfer on the earth balances the net heat on the earth ensuring the horizontal heat budget is also a balanced budget.
 ### How does Horizontal heat transfer takes place
+- This heat transfer takes place in the Air (atmosphere), Water (oceans mainly). These are the major things moving on the earth from polar to tropic and tropic to polar.
+- The major horizontal heat transfer on the earth takes place through the air or through the ocean waters.
