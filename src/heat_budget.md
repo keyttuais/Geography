@@ -34,7 +34,21 @@ Hence because of these factors, insolation on the earth's surface varies from pl
 - The maximum insolation is received in the *tropical desert* regions.
 
 ## Heating of Atmosphere
+- How different parts of the atmosphere are heated is discussed below. Now we are mostly talking of the troposphere. The earth's atmosphere gets less heated directly by insolation as greenhouse gasses in the atmosphere are not capable of absorbing the insolation directly. Hence the insolation directly reaches the earth's surface mostly rather heats up the earth's surface.
+- When the earth's surface get heated it also releases back, *heat radiation* but this heat radiation of the earth is not so high energy radiation, therefore the greenhouse gasses in the atmosphere are capable of absorbing this radiation of the earth known as *Terrestrial radiation*.
+- The greenhouse gasses by absorbing this heat, heats up the atmosphere. Hence practically seen the atmosphere gets most of its heat directly from the earth in the form of terrestrial radiation (low energy radiation) and not in the form of insolation.
+- This is another reason why the lower part of troposphere is hotter than the upper part of the troposphere as the lower part of the troposphere is closer to the earth's surface.
+- The other ways in which the earth's atmosphere gets heated is *Conduction*, *Convection*, *Advection* and *Condensation*.
+- In the hotter regions, the lower part of the air is directly in contact with the hotter surface and hence heated by *Conduction*. This heated air might rise and heat up the upper air by *Convection*. The heated air might move towards the nearby cooler region and heat up the lower air there, this is known as *Advection*.
 
+| Process      | Direction  | Mechanism           |
+| ------------ | ---------- | ------------------- |
+| Conduction   | None       | Contact             |
+| Convection   | Vertical   | Rising/sinking air  |
+| Advection    | Horizontal | Wind movement       |
+| Condensation | —          | Latent heat release |
+
+- Terrestrial radiation might heat up the whole of atmosphere more in the lower parts and less in the upper parts.
 ### Vertical Heat Received
 
 ### Vertical Heat Released
