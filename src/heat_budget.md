@@ -16,4 +16,29 @@ The insolation received on the earth's surface (oceans and continents) at differ
   - On a tilted axis, different duration of day and night.
     - Different duration of sunlight.
     - Different angle of sunlight at different places (latitudes)
-- 
+- Revolution effect
+  - This revolution changes the tilt with respect to the sun during different months. June northern hemisphere tilted towards the sun, December southern hemisphere tilted towards Sun. Hence different insolation therefore different season.
+- Angle of Inclination
+  - At lower latitudes insolation has to travel a lesser distance in the atmosphere whereas at higher latitudes insolation has to travel more distance in the atmosphere.
+  - Travelling in the atmosphere affects the insolation by absorbing, scattering and diffusing the sunlight due to gasses, water vapor and dust particles. Hence more sunlight reaches the earth's surface at lower latitudes and less sunlight reaches the earth surface at higher latitudes.
+- Slope & Aspect
+  - On flat plain surfaces the sunlight might fall perpendicular and hence more intense, but on mountanious surfaces because of the slope of the mountain, the sunlight might fall inclined and hence less intense.
+  - Similarly, aspect means the mountain side facing the sun will receive more sunlight whereas the mountain side not toward the sun will receive less or no sunlight and hence insolation might very on the same mountain on the two sides.
+- Transparency of atmosphere
+  - In the region which is cloudy or foggy or misty or more humid, less insolation will reach the surface of the earth whereas in clear sky regions (sunny regions) more sunlight will be there. Similarly in deserts or dry plain regions if it is too dusty then less sunlight will reach the surface of the earth.
+Hence because of these factors, insolation on the earth's surface varies from place to place and time to time during the day or during seasons.
+
+### Average Insolation received
+- The maximum insolation received is at tropic which is 320 Watts / m2 and at poles it is 70 Watts / m2 and near the equator it is less than 320 Watts / m2 (because equator is generally clody whereas tropic is generally clear sky and poles are in high latitudes)
+- At the same latitude continents receive more sunlight than the oceans because oceans are relatively more cloudy than the continents.
+- The maximum insolation is received in the *tropical desert* regions.
+
+## Heating of Atmosphere
+
+### Vertical Heat Received
+
+### Vertical Heat Released
+
+## Horizontal heat distribution on the earth
+
+### How does Horizontal heat transfer takes place
